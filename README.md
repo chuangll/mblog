@@ -1,12 +1,7 @@
 mblog
 =====
 
-博客，NODEJS +Epress4 +MYSQL +BOOTFLAT2.0.1
-
-更新记录：
-1.0
-    
-访问地址：http://121.42.48.155:3000
+博客，NODEJS 12.* + Epress4 + MYSQL V8.0 + BOOTFLAT2.0.1
 
 
 使用库：
